@@ -117,5 +117,5 @@ Solution:
   P(4) = 1 / 6 = 0.1667 → 16.67% chance.
 
 
-
-Video Link: https://drive.google.com/drive/folders/1xGUvYr4Pid1b807K4LQV3FjhqVfhKqkT?usp=sharing 
+#Since the video exceeds the 25mb limit po sir, I uploaded it on drive. Thank you.
+Video Link: [https://drive.google.com/drive/folders/1xGUvYr4Pid1b807K4LQV3FjhqVfhKqkT?usp=sharing ](https://drive.google.com/drive/folders/1xGUvYr4Pid1b807K4LQV3FjhqVfhKqkT?usp=sharing)
